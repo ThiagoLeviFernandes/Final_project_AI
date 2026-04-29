@@ -6,6 +6,9 @@
 - Next, open the file in the IDE of your choice, or download Thonny if you do not already have an IDE.
 - Finally run the program.
 
+- In the activity, your job is to solve the maze as efficently as possible in 40 seconds. You can then compare your result (and time, but AI takes fractions of a second to solve) to AI using whatever algorithm you chose to solve it in the viewer.
+- For further learning this can be used to reinforce search algorithm learning by giving the student a algorithm to try to solve the maze in, then comparing their result with a live demo in the viewer. This does not necessarily need to be timed.
+
 ---
 
 ## Navigate The Program
